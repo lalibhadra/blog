@@ -1,5 +1,5 @@
 baseURL: "https://samirpaul1.github.io/blog"
-title: ExampleSite
+title: Samir Paul Blogs
 paginate: 5
 theme: PaperMod
 
@@ -126,7 +126,7 @@ menu:
       name: example.org
       url: https://example.org
       weight: 30
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# Read: https://github.com/SamirPaul1/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
   highlight:
